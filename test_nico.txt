@@ -1,12 +1,1 @@
-test 2
-
-<<<<<<< HEAD
-Ouais ?
-
-
-Test de commit automatiquement twitté.
-
-Ca a l'air de bien fonctionner.
-=======
-Ouais ?
->>>>>>> parent of e0d73af... Test commit to tweet
+Ceci est un fichier test.
